@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>MBGaytes</title>
+  <title>MBGaytes Wallpapers</title>
   <style>
     body {
       margin: 0;
@@ -14,7 +14,7 @@
     header {
       text-align: center;
       padding: 100px 20px;
-      background: linear-gradient(135deg, #ff004c, #1a1aff);
+      background: linear-gradient(135deg, #00c6ff, #0072ff);
     }
 
     header h1 {
@@ -42,7 +42,7 @@
       text-align: center;
     }
 
-    .portfolio video {
+    .gallery img {
       width: 300px;
       margin: 10px;
       border-radius: 10px;
@@ -59,33 +59,33 @@
 <body>
 
 <header>
-  <h1>MBGaytes</h1>
-  <p>Video Editor | Content Creator</p>
-  <a href="#portfolio" class="btn">Watch My Work</a>
+  <h1>MBGaytes Wallpapers</h1>
+  <p>High-quality wallpapers for iPhone, Android, and laptops</p>
+  <a href="#gallery" class="btn">Browse Wallpapers</a>
 </header>
 
 <section>
-  <h2>About Me</h2>
-  <p>I create high-quality edits for social media, helping content stand out and go viral.</p>
+  <h2>About</h2>
+  <p>Download stunning, high-resolution wallpapers designed for all devices. Perfect for phones, tablets, and desktops.</p>
 </section>
 
-<section id="portfolio" class="portfolio">
-  <h2>My Work</h2>
-  <p>Upload your videos here later</p>
-</section>
-
-<section>
-  <h2>Services</h2>
-  <p>Short-form editing • YouTube videos • Social media clips</p>
+<section id="gallery" class="gallery">
+  <h2>Wallpaper Gallery</h2>
+  <p>Your wallpapers will appear here</p>
 </section>
 
 <section>
-  <h2>Contact</h2>
-  <p>Email: your@email.com</p>
+  <h2>Categories</h2>
+  <p>4K • Minimal • Anime • Aesthetic • Nature • Gaming</p>
+</section>
+
+<section>
+  <h2>Download</h2>
+  <p>Click on any wallpaper to download in full resolution</p>
 </section>
 
 <footer>
-  <p>© 2026 MBGaytes</p>
+  <p>© 2026 MBGaytes Wallpapers</p>
 </footer>
 
 </body>
