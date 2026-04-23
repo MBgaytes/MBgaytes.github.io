@@ -1,4 +1,4 @@
-#  Picturesthroughmyeyes (PTME)
+#mbgaytes Wallpapers
 
 **See the world through my lens.**
 
@@ -13,15 +13,11 @@ Welcome to my wallpaper hub where I create and share high-quality wallpapers for
 *  Original designs
 * Free downloads
 
----
 
 ##  Live Website
 
  https://MBgaytes.github.io
 
-*(replace with your real link once published)*
-
----
 
 ##  Project Structure
 
@@ -35,11 +31,6 @@ README.md
 
 ## 🖼 Example Code
 
-```html
-<img src="images/wallpaper1.jpg" alt="Wallpaper">
-```
-
----
 
 ##  How to Use
 
@@ -60,9 +51,7 @@ README.md
 
 ##  Author
 
-Created by **PTME (Picturesthroughmyeyes)**
-
----
+Created by Jimmy Gayte
 
 ##  Support
 
